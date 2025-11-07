@@ -1,0 +1,16 @@
+# backend/.gitignore
+
+# Dependencias
+/node_modules
+
+# Archivo de Entorno
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de Sistema Operativo
+.DS_Store
+Thumbs.db
